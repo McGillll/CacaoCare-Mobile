@@ -1,57 +1,64 @@
-CacaoCare
+# 🌱 CacaoCare – AI-Powered Cacao Disease Detection  
 
-CacaoCare is a mobile application that leverages Convolutional Neural Networks (CNN) to analyze cacao plant images and detect whether they are healthy or affected by disease. The app aims to support farmers in maintaining healthier crops and improving yield outcomes.
+<p align="center">
+  <img src="your-logo-link-here" alt="CacaoCare Logo" width="120"/>
+</p>  
 
-Features
+CacaoCare is a mobile app that uses **Convolutional Neural Networks (CNNs)** to analyze cacao plant images and detect whether they are **healthy or diseased**.  
+It empowers farmers to protect their crops, reduce losses, and increase yield — all with the power of AI.  
 
-AI-Powered Classification
-Identifies cacao diseases using CNN models trained with real image datasets.
+---
 
-User-Friendly Interface
-Simple and intuitive design for farmers to easily capture and analyze cacao images.
+## 🚀 Features  
+- ✅ **AI-Powered Classification** – Detect cacao diseases using trained CNN models  
+- ✅ **User-Friendly Interface** – Simple, intuitive, and designed for farmers  
+- ✅ **Offline Functionality** – Works without internet access in remote areas  
+- ✅ **Fast and Reliable** – Get instant feedback by snapping a photo  
 
-Offline Functionality
-Perform disease detection without internet access, making it reliable for use in rural farming areas.
+---
 
-Screenshots
-Home Page	Features Page
+## 📱 Screenshots  
 
-	
-Installation
+<p align="center">
+  <img src="your-screenshot-1-link" alt="Home Page" width="45%"/>  
+  <img src="your-screenshot-2-link" alt="Features Page" width="45%"/>  
+</p>  
 
-Download the latest APK file from the Releases
- section.
+---
 
-Transfer the APK to your Android device.
+## 📥 Installation  
 
-Open the file and install the application.
+1. Go to the **[Releases](../../releases)** section of this repository.  
+2. Download the latest **`CacaoCare.v1.apk`** file.  
+3. Transfer it to your Android device.  
+4. Open the file and install.  
+   - Enable **Install from unknown sources** in your device settings if needed.  
+5. Launch the app and start protecting your cacao plants.  
 
-Make sure Install from unknown sources is enabled in your device settings.
+👉 [**Download APK Now**](../../releases)  
 
-Usage
+---
 
-Open the CacaoCare app.
+## 🌍 Website  
+Visit our website for more info: [CacaoCare Official Website](https://cacao-care.nuxt.dev/)  
 
-Capture or upload an image of a cacao plant.
+---
 
-The AI model will classify the plant as Healthy or Diseased.
+## 🛠️ Tech Stack  
+- **Mobile**: Android (Java/Kotlin)  
+- **AI Model**: CNN (Convolutional Neural Networks)  
+- **Storage**: Local + Offline Support  
 
-Receive suggestions for next steps to protect your crops.
+---
 
-Tech Stack
+## 🤝 Contributing  
+Want to improve CacaoCare? Fork the repo, make changes, and submit a pull request.  
 
-Mobile Framework: Android (Java/Kotlin)
+---
 
-AI Model: Convolutional Neural Networks (CNN)
+## 📜 License  
+This project is licensed under the **MIT License**.  
 
-Backend: [Optional if you have API support]
+---
 
-Database: Local storage with offline support
-
-Website
-
-Visit the official CacaoCare website to learn more: CacaoCare Website
-
-Contribution
-
-Contributions are welcome. Please fork the repository and submit a pull request for review.
+✨ Built to help farmers protect their crops and grow smarter with AI.  
