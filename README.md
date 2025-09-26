@@ -44,7 +44,7 @@ Visit our website for more info: [CacaoCare Official Website](https://cacao-care
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack (Mobile)
 - **Mobile**: Android (Java/Kotlin)  
 - **AI Model**: CNN (Convolutional Neural Networks)  
 - **Storage**: Local + Offline Support  
