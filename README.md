@@ -1,7 +1,7 @@
 # 🌱 CacaoCare – AI-Powered Cacao Disease Detection  
 
 <p align="center">
-  <img src="https://i.imgur.com/la1KhXW.png" alt="CacaoCare Logo" width="120"/>
+  <img src="https://i.imgur.com/la1KhXW.jpeg" alt="CacaoCare Logo" width="120"/>
 </p>  
 
 CacaoCare is a mobile app that uses **Convolutional Neural Networks (CNNs)** to analyze cacao plant images and detect whether they are **healthy or diseased**.  
