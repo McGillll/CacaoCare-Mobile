@@ -18,16 +18,19 @@ It empowers new farmers to protect their crops, reduce losses, and increase yiel
 ---
 
 ## 📱 Screenshots  
-<span>Web Application</span>
+
+### Web Application
 <p align="center">
-  <img src="https://i.imgur.com/MAZLhSr.png" alt="Home Page" width="45%"/>  
-  <img src="https://i.imgur.com/v1uIHIC.png" alt="Registration Page" width="45%"/>  
-</p>  
-<span>Mobile Application</span>
+  <img src="https://i.imgur.com/MAZLhSr.png" alt="Web Home Page" width="40%">
+  <img src="https://i.imgur.com/v1uIHIC.png" alt="Web Registration Page" width="40%">
+</p>
+
+### Mobile Application
 <p align="center">
-  <img src="https://i.imgur.com/NEDas3Q.jpeg" alt="Home Page" width="45%"/>  
-  <img src="https://i.imgur.com/JiDBEBu.jpeg" alt="Registration Page" width="45%"/>  
-</p>  
+  <img src="https://i.imgur.com/NEDas3Q.jpeg" alt="Mobile Home Page" width="30%">
+  <img src="https://i.imgur.com/JiDBEBu.jpeg" alt="Mobile Registration Page" width="30%">
+</p>
+
 ---
 
 ## 📥 Installation  
