@@ -27,8 +27,8 @@ It empowers new farmers to protect their crops, reduce losses, and increase yiel
 
 ### Mobile Application
 <p align="center">
-  <img src="https://i.imgur.com/NEDas3Q.jpeg" alt="Mobile Home Page" width="30%">
-  <img src="https://i.imgur.com/JiDBEBu.jpeg" alt="Mobile Registration Page" width="30%">
+  <img src="https://i.imgur.com/NEDas3Q.jpeg" alt="Mobile Home Page" width="10%">
+  <img src="https://i.imgur.com/JiDBEBu.jpeg" alt="Mobile Registration Page" width="10%">
 </p>
 
 ---
