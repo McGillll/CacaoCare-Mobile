@@ -63,9 +63,4 @@ Want to improve CacaoCare? Fork the repo, make changes, and submit a pull reques
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
 ✨ Built to help farmers protect their crops and grow smarter with AI.  
